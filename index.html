@@ -1,42 +1,68 @@
 <!DOCTYPE html>
 <html lang="ar" dir="rtl">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>منصة الآيواء السياحي</title>
-  <link rel="stylesheet" href="style.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&display=swap" rel="stylesheet" />
+  <meta charset="UTF-8">
+  <title>منظومة إذن المزاولة للإيواء السياحي</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- مكتبات خارجية -->
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
+  <!-- الهيدر -->
+  <header>
+    <h1>وزارة السياحة والصناعات التقليدية</h1>
+    <h2>إدارة المهن والرقابة السياحية</h2>
+    <h3>منظومة إذن المزاولة للإيواء السياحي</h3>
+  </header>
 
-<header>
-  <img src="https://raw.githubusercontent.com/tidclibya/hotel-platform/main/WhatsApp%20Image%202025-01-30%20at%2016.49.35.jpeg" alt="صورة بانورامية" />
-  <div class="overlay">
-    <h1>منصة الفنادق والقرى السياحية</h1>
-    <p>تابع وسجل المرافق السياحية بسهولة واحترافية</p>
-  </div>
-</header>
+  <!-- منطقة التحكم -->
+  <main>
+    <section id="controls">
+      <button onclick="showSection('list')">📋 عرض الفنادق</button>
+      <button onclick="showSection('add')">➕ إضافة فندق</button>
+      <button onclick="showSection('stats')">📊 الإحصائيات</button>
+    </section>
 
-<section class="stats-section" id="dashboard">
-  <!-- سيتم توليد الإحصائيات تلقائيًا بواسطة JavaScript -->
-</section>
+    <!-- قائمة الفنادق -->
+    <section id="list" class="content-section">
+      <table id="hotelsTable" class="display"></table>
+    </section>
 
-<section class="section">
-  <h2 class="section-title">القائمة الرئيسية</h2>
-  <div class="button-list">
-    <a href="add_hotel.html">➕ إضافة مرفق جديد</a>
-    <a href="hotels.html">🏨 لوحة تحكم الفنادق</a>
-    <a href="villages.html">🌴 القرى السياحية</a>
-    <a href="statistics.html">📊 إحصائيات النظام</a>
-    <a href="reports.html">📝 تقارير الفنادق</a>
-  </div>
-</section>
+    <!-- نموذج إضافة/تعديل -->
+    <section id="add" class="content-section hidden">
+      <form id="hotelForm">
+        <input type="hidden" id="hotelId">
+        <label>اسم المرفق:<input type="text" id="name" required></label>
+        <label>التصنيف:<input type="text" id="classification"></label>
+        <label>المدينة:<input type="text" id="city"></label>
+        <label>العنوان:<input type="text" id="address"></label>
+        <label>عدد الغرف:<input type="number" id="rooms"></label>
+        <label>عدد الأسرة:<input type="number" id="beds"></label>
+        <label>الهاتف:<input type="text" id="phone"></label>
+        <button type="submit">💾 حفظ</button>
+      </form>
+    </section>
 
-<footer>
-  تصميم وتنفيذ مركز المعلومات والتوثيق السياحي © 2025
-</footer>
+    <!-- الإحصائيات -->
+    <section id="stats" class="content-section hidden">
+      <div class="stats-cards">
+        <div id="totalHotels"></div>
+        <div id="totalRooms"></div>
+        <div id="totalBeds"></div>
+      </div>
+      <canvas id="classificationChart"></canvas>
+      <canvas id="cityChart"></canvas>
+    </section>
+  </main>
 
-<script src="script.js"></script>
+  <!-- الفوتر -->
+  <footer>
+    تصميم وبرمجة مركز المعلومات والتوثيق السياحي 2025 م
+  </footer>
+
+  <script src="script.js"></script>
 </body>
 </html>
-

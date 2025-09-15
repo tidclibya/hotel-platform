@@ -1,0 +1,3392 @@
+[
+    {
+        "Unnamed: 0": NaN,
+        "Unnamed: 1": NaN,
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": NaN,
+        "Unnamed: 4": NaN,
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": NaN,
+        "Unnamed: 1": "كشف بالفنادق العاملــة في ليبيا",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": NaN,
+        "Unnamed: 4": NaN,
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": "ت",
+        "Unnamed: 1": "أسم المــــــرفق",
+        "Unnamed: 2": "التصنيف",
+        "Unnamed: 3": "المدينـــة",
+        "Unnamed: 4": "عنــوان المرفـــــق",
+        "Unnamed: 5": "عــــدد الغرف",
+        "Unnamed: 6": "عــــدد الأسرة",
+        "Unnamed: 7": "الهـــاتف"
+    },
+    {
+        "Unnamed: 0": 1,
+        "Unnamed: 1": "نزل أفريقيا",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "اجدابيا",
+        "Unnamed: 4": "ش / الإمام سحنون",
+        "Unnamed: 5": 28,
+        "Unnamed: 6": 54,
+        "Unnamed: 7": 92747270
+    },
+    {
+        "Unnamed: 0": 2,
+        "Unnamed: 1": "فندق اجدابيا السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "اجدابيا",
+        "Unnamed: 4": "اجدابيا",
+        "Unnamed: 5": 21,
+        "Unnamed: 6": 40,
+        "Unnamed: 7": 5626402
+    },
+    {
+        "Unnamed: 0": 3,
+        "Unnamed: 1": "فندق أمال أفريقيا",
+        "Unnamed: 2": "4 نجوم",
+        "Unnamed: 3": "اجدابيا",
+        "Unnamed: 4": "الطريق الدائري",
+        "Unnamed: 5": 54,
+        "Unnamed: 6": 86,
+        "Unnamed: 7": 645628951
+    },
+    {
+        "Unnamed: 0": 4,
+        "Unnamed: 1": "فندق المدينة السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "اجدابيا",
+        "Unnamed: 4": "اجدابيا",
+        "Unnamed: 5": 24,
+        "Unnamed: 6": 48,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 5,
+        "Unnamed: 1": "فندق المنارة",
+        "Unnamed: 2": "4 نجوم",
+        "Unnamed: 3": "البيضاء",
+        "Unnamed: 4": "سوسة",
+        "Unnamed: 5": 94,
+        "Unnamed: 6": 180,
+        "Unnamed: 7": 912090313
+    },
+    {
+        "Unnamed: 0": 6,
+        "Unnamed: 1": "فندق لؤلؤة الجبل الأخضر",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "البيضاء",
+        "Unnamed: 4": "مقابل البريد",
+        "Unnamed: 5": 36,
+        "Unnamed: 6": 66,
+        "Unnamed: 7": "70-063968"
+    },
+    {
+        "Unnamed: 0": 7,
+        "Unnamed: 1": "فندق قصر البيضاء",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "البيضاء",
+        "Unnamed: 4": "البيضاء",
+        "Unnamed: 5": 61,
+        "Unnamed: 6": 122,
+        "Unnamed: 7": 633455
+    },
+    {
+        "Unnamed: 0": 8,
+        "Unnamed: 1": "فندق القاهرة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "البيضاء",
+        "Unnamed: 4": "البيضاء",
+        "Unnamed: 5": 16,
+        "Unnamed: 6": 33,
+        "Unnamed: 7": 4756
+    },
+    {
+        "Unnamed: 0": 9,
+        "Unnamed: 1": "نزل أية",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "البيضاء",
+        "Unnamed: 4": "البيضاء",
+        "Unnamed: 5": 28,
+        "Unnamed: 6": 46,
+        "Unnamed: 7": 84637258
+    },
+    {
+        "Unnamed: 0": 10,
+        "Unnamed: 1": "فندق لؤلؤة الخليج",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "البيضاء",
+        "Unnamed: 4": "البيضاء",
+        "Unnamed: 5": 31,
+        "Unnamed: 6": 61,
+        "Unnamed: 7": 630971
+    },
+    {
+        "Unnamed: 0": 11,
+        "Unnamed: 1": "فندق المدينة البيضاء للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "البيضاء",
+        "Unnamed: 4": "البيضاء",
+        "Unnamed: 5": 8,
+        "Unnamed: 6": 16,
+        "Unnamed: 7": 637040
+    },
+    {
+        "Unnamed: 0": 12,
+        "Unnamed: 1": "منتجع ابولوا السياحي( القرية السياحية شحات )",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "البيضاء",
+        "Unnamed: 4": "البيضاء",
+        "Unnamed: 5": 29,
+        "Unnamed: 6": 58,
+        "Unnamed: 7": 912093230
+    },
+    {
+        "Unnamed: 0": 13,
+        "Unnamed: 1": "فندق التلال",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "البيضاء",
+        "Unnamed: 4": "البيضاء",
+        "Unnamed: 5": 22,
+        "Unnamed: 6": 44,
+        "Unnamed: 7": 925777040
+    },
+    {
+        "Unnamed: 0": 14,
+        "Unnamed: 1": "فندق مرحبا",
+        "Unnamed: 2": "4 نجوم",
+        "Unnamed: 3": "البيضاء",
+        "Unnamed: 4": "البيضاء",
+        "Unnamed: 5": 121,
+        "Unnamed: 6": 186,
+        "Unnamed: 7": 844631998
+    },
+    {
+        "Unnamed: 0": 15,
+        "Unnamed: 1": "القرية العائلية جنزور",
+        "Unnamed: 2": "4 نجوم",
+        "Unnamed: 3": "الجفارة",
+        "Unnamed: 4": "جنزور",
+        "Unnamed: 5": 360,
+        "Unnamed: 6": 720,
+        "Unnamed: 7": 4890430
+    },
+    {
+        "Unnamed: 0": 16,
+        "Unnamed: 1": "فندق هون السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "الجفرة",
+        "Unnamed: 4": "هون",
+        "Unnamed: 5": 12,
+        "Unnamed: 6": 24,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 17,
+        "Unnamed: 1": "فندق الهروج السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "الجفرة",
+        "Unnamed: 4": "هون",
+        "Unnamed: 5": 73,
+        "Unnamed: 6": 125,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 18,
+        "Unnamed: 1": "فندق النخيل السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "الجفرة",
+        "Unnamed: 4": NaN,
+        "Unnamed: 5": 11,
+        "Unnamed: 6": 22,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 19,
+        "Unnamed: 1": "استراحة الفقهاء السياحية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "الجفرة",
+        "Unnamed: 4": NaN,
+        "Unnamed: 5": 8,
+        "Unnamed: 6": 16,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 20,
+        "Unnamed: 1": "قرية ودان السياحية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "الجفرة",
+        "Unnamed: 4": NaN,
+        "Unnamed: 5": 51,
+        "Unnamed: 6": 132,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 21,
+        "Unnamed: 1": "فندق النقازة",
+        "Unnamed: 2": "صيانة",
+        "Unnamed: 3": "الخمس",
+        "Unnamed: 4": "النقازة",
+        "Unnamed: 5": 14,
+        "Unnamed: 6": 28,
+        "Unnamed: 7": 912134456
+    },
+    {
+        "Unnamed: 0": 22,
+        "Unnamed: 1": "فندق لبدة السياحي",
+        "Unnamed: 2": "صيانة",
+        "Unnamed: 3": "الخمس",
+        "Unnamed: 4": "شارع لبدة",
+        "Unnamed: 5": 22,
+        "Unnamed: 6": 38,
+        "Unnamed: 7": 927696751
+    },
+    {
+        "Unnamed: 0": 23,
+        "Unnamed: 1": "فندق الحسنين الكبير",
+        "Unnamed: 2": "نجمتان",
+        "Unnamed: 3": "الخمس",
+        "Unnamed: 4": "طريق الساحل /الخمس",
+        "Unnamed: 5": 34,
+        "Unnamed: 6": 68,
+        "Unnamed: 7": 312624078
+    },
+    {
+        "Unnamed: 0": 24,
+        "Unnamed: 1": "فندق سيفيروس",
+        "Unnamed: 2": "نجمتان",
+        "Unnamed: 3": "الخمس",
+        "Unnamed: 4": "شارع الفاتح",
+        "Unnamed: 5": 16,
+        "Unnamed: 6": 32,
+        "Unnamed: 7": 312625086
+    },
+    {
+        "Unnamed: 0": 25,
+        "Unnamed: 1": "فندق الأندلس السياحي",
+        "Unnamed: 2": "صيانة",
+        "Unnamed: 3": "الخمس",
+        "Unnamed: 4": "الطريق الساحلي",
+        "Unnamed: 5": 15,
+        "Unnamed: 6": 28,
+        "Unnamed: 7": 315328845
+    },
+    {
+        "Unnamed: 0": 26,
+        "Unnamed: 1": "فندق المرقب",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "الخمس",
+        "Unnamed: 4": NaN,
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 27,
+        "Unnamed: 1": "فندق الخمس السياحي",
+        "Unnamed: 2": "تحت الإنشاء",
+        "Unnamed: 3": "الخمس",
+        "Unnamed: 4": NaN,
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 28,
+        "Unnamed: 1": "نزل عروس البحر",
+        "Unnamed: 2": "مقفل",
+        "Unnamed: 3": "الخمس",
+        "Unnamed: 4": "شارع البلدية",
+        "Unnamed: 5": 3,
+        "Unnamed: 6": 9,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 29,
+        "Unnamed: 1": "فندق المدينة",
+        "Unnamed: 2": "نجمتان",
+        "Unnamed: 3": "الخمس",
+        "Unnamed: 4": "ش بن جحا",
+        "Unnamed: 5": 32,
+        "Unnamed: 6": 67,
+        "Unnamed: 7": 312620798
+    },
+    {
+        "Unnamed: 0": 30,
+        "Unnamed: 1": "القرية السياحية الخمس",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "الخمس",
+        "Unnamed: 4": "الخمس",
+        "Unnamed: 5": 48,
+        "Unnamed: 6": 96,
+        "Unnamed: 7": 6169071
+    },
+    {
+        "Unnamed: 0": 31,
+        "Unnamed: 1": "فندق السودان",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "الكفرة",
+        "Unnamed: 4": NaN,
+        "Unnamed: 5": 28,
+        "Unnamed: 6": 50,
+        "Unnamed: 7": 647502484
+    },
+    {
+        "Unnamed: 0": 32,
+        "Unnamed: 1": "فندق الواحة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "الكفرة",
+        "Unnamed: 4": NaN,
+        "Unnamed: 5": 8,
+        "Unnamed: 6": 16,
+        "Unnamed: 7": 502701
+    },
+    {
+        "Unnamed: 0": 33,
+        "Unnamed: 1": "فندق المرج السياحي",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "المرج",
+        "Unnamed: 4": "المرج ش الجلاء",
+        "Unnamed: 5": 46,
+        "Unnamed: 6": 92,
+        "Unnamed: 7": 622727
+    },
+    {
+        "Unnamed: 0": 34,
+        "Unnamed: 1": "استراحة الضمان الاجتماعي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "الواحات",
+        "Unnamed: 4": "اوجلة",
+        "Unnamed: 5": 14,
+        "Unnamed: 6": 70,
+        "Unnamed: 7": 913825429
+    },
+    {
+        "Unnamed: 0": 35,
+        "Unnamed: 1": "فندق جالو السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "الواحات",
+        "Unnamed: 4": "جالو",
+        "Unnamed: 5": 18,
+        "Unnamed: 6": 36,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 36,
+        "Unnamed: 1": "فندق القاهرة السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": NaN,
+        "Unnamed: 5": 80,
+        "Unnamed: 6": 160,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 37,
+        "Unnamed: 1": "فندق تيبستي",
+        "Unnamed: 2": "5 نجوم",
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "سيدي حسين",
+        "Unnamed: 5": 250,
+        "Unnamed: 6": 452,
+        "Unnamed: 7": "17-9090016"
+    },
+    {
+        "Unnamed: 0": 38,
+        "Unnamed: 1": "فندق أوزو",
+        "Unnamed: 2": "4 نجوم",
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "ميدان شهداء الجزيرة",
+        "Unnamed: 5": 262,
+        "Unnamed: 6": 416,
+        "Unnamed: 7": "66/9095160"
+    },
+    {
+        "Unnamed: 0": 39,
+        "Unnamed: 1": "فندق الشرق السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي",
+        "Unnamed: 5": 82,
+        "Unnamed: 6": 174,
+        "Unnamed: 7": 9093575
+    },
+    {
+        "Unnamed: 0": 40,
+        "Unnamed: 1": "فندق إشبيليا",
+        "Unnamed: 2": "تحت الصيانة",
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 68,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 41,
+        "Unnamed: 1": "بيت بنغازي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 16,
+        "Unnamed: 6": 32,
+        "Unnamed: 7": 9096997
+    },
+    {
+        "Unnamed: 0": 42,
+        "Unnamed: 1": "فندق اهلابكم",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "الصابري",
+        "Unnamed: 5": 20,
+        "Unnamed: 6": 50,
+        "Unnamed: 7": 89961
+    },
+    {
+        "Unnamed: 0": 43,
+        "Unnamed: 1": "فندق مرحبا السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 20,
+        "Unnamed: 6": 40,
+        "Unnamed: 7": 9099378
+    },
+    {
+        "Unnamed: 0": 44,
+        "Unnamed: 1": "فندق أفريقيا",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "الصابري ش الجزائر",
+        "Unnamed: 5": 94,
+        "Unnamed: 6": 163,
+        "Unnamed: 7": 3380445
+    },
+    {
+        "Unnamed: 0": 45,
+        "Unnamed: 1": "فندق العرب",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "سيدي حسين",
+        "Unnamed: 5": 91,
+        "Unnamed: 6": 228,
+        "Unnamed: 7": 9096001
+    },
+    {
+        "Unnamed: 0": 46,
+        "Unnamed: 1": "فندق  الجزيرة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 120,
+        "Unnamed: 6": 177,
+        "Unnamed: 7": 9096009
+    },
+    {
+        "Unnamed: 0": 47,
+        "Unnamed: 1": "فندق الأنيس",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "ش- عمر بن الخطاب",
+        "Unnamed: 5": 46,
+        "Unnamed: 6": 86,
+        "Unnamed: 7": 9098974
+    },
+    {
+        "Unnamed: 0": 48,
+        "Unnamed: 1": "فندق الممتاز",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 115,
+        "Unnamed: 6": 215,
+        "Unnamed: 7": 9097581
+    },
+    {
+        "Unnamed: 0": 49,
+        "Unnamed: 1": "فندق الامة العربية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "سيدي حسين",
+        "Unnamed: 5": 63,
+        "Unnamed: 6": 119,
+        "Unnamed: 7": 9098655
+    },
+    {
+        "Unnamed: 0": 50,
+        "Unnamed: 1": "فندق السلام",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 28,
+        "Unnamed: 6": 102,
+        "Unnamed: 7": 9099936
+    },
+    {
+        "Unnamed: 0": 51,
+        "Unnamed: 1": "فندق المدينة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 44,
+        "Unnamed: 6": 106,
+        "Unnamed: 7": 3350650
+    },
+    {
+        "Unnamed: 0": 52,
+        "Unnamed: 1": "فندق الشرق",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 65,
+        "Unnamed: 6": 121,
+        "Unnamed: 7": 9093575
+    },
+    {
+        "Unnamed: 0": 53,
+        "Unnamed: 1": "فندق البحر المتوسط",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 43,
+        "Unnamed: 6": 136,
+        "Unnamed: 7": 9090395
+    },
+    {
+        "Unnamed: 0": 54,
+        "Unnamed: 1": "الفندق الكبير",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 75,
+        "Unnamed: 6": 189,
+        "Unnamed: 7": 9092882
+    },
+    {
+        "Unnamed: 0": 55,
+        "Unnamed: 1": "فندق الزحف الأخضر",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "ش/احمد رفيق المهدوى",
+        "Unnamed: 5": 120,
+        "Unnamed: 6": 220,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 56,
+        "Unnamed: 1": "فندق تاقرفت",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "الصابرى ش/بالروين",
+        "Unnamed: 5": 72,
+        "Unnamed: 6": 144,
+        "Unnamed: 7": 925319841
+    },
+    {
+        "Unnamed: 0": 57,
+        "Unnamed: 1": "فندق سرت",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "سيدي حسين/ ش البشائر",
+        "Unnamed: 5": 10,
+        "Unnamed: 6": 17,
+        "Unnamed: 7": 9097343
+    },
+    {
+        "Unnamed: 0": 58,
+        "Unnamed: 1": "فندق القرضابية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "جمال عبد الناصر",
+        "Unnamed: 5": 50,
+        "Unnamed: 6": 100,
+        "Unnamed: 7": 923692890
+    },
+    {
+        "Unnamed: 0": 59,
+        "Unnamed: 1": "فندق قصر الجزيرة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي",
+        "Unnamed: 5": 134,
+        "Unnamed: 6": 251,
+        "Unnamed: 7": "تحت الصيانة"
+    },
+    {
+        "Unnamed: 0": 60,
+        "Unnamed: 1": "فندق عمر الخيام",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي/المدينة",
+        "Unnamed: 5": 142,
+        "Unnamed: 6": 284,
+        "Unnamed: 7": "تحت الصيانة"
+    },
+    {
+        "Unnamed: 0": 61,
+        "Unnamed: 1": "فندق الخليج",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 30,
+        "Unnamed: 6": 92,
+        "Unnamed: 7": 9099291
+    },
+    {
+        "Unnamed: 0": 62,
+        "Unnamed: 1": "فندق أطلس",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "سيدي حسين/ش البشائر",
+        "Unnamed: 5": 27,
+        "Unnamed: 6": 91,
+        "Unnamed: 7": 925574526
+    },
+    {
+        "Unnamed: 0": 63,
+        "Unnamed: 1": "فندق الحديقة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "سيدي حسين",
+        "Unnamed: 5": 41,
+        "Unnamed: 6": 96,
+        "Unnamed: 7": 9092314
+    },
+    {
+        "Unnamed: 0": 64,
+        "Unnamed: 1": "فندق النماء",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "الصابري",
+        "Unnamed: 5": 11,
+        "Unnamed: 6": 30,
+        "Unnamed: 7": 3389961
+    },
+    {
+        "Unnamed: 0": 65,
+        "Unnamed: 1": "فندق النيروز",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 14,
+        "Unnamed: 6": 34,
+        "Unnamed: 7": 916100411
+    },
+    {
+        "Unnamed: 0": 66,
+        "Unnamed: 1": "فندق النجمة",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "الصابري/ش وادى المجانين",
+        "Unnamed: 5": 44,
+        "Unnamed: 6": 96,
+        "Unnamed: 7": 3372448
+    },
+    {
+        "Unnamed: 0": 67,
+        "Unnamed: 1": "فندق الفضيل",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "جليانة /ش الشط",
+        "Unnamed: 5": 76,
+        "Unnamed: 6": 104,
+        "Unnamed: 7": 9095300
+    },
+    {
+        "Unnamed: 0": 68,
+        "Unnamed: 1": "فندق الجبل الأخضر",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 9,
+        "Unnamed: 6": 30,
+        "Unnamed: 7": 9081980
+    },
+    {
+        "Unnamed: 0": 69,
+        "Unnamed: 1": "فندق بوهادي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 27,
+        "Unnamed: 6": 57,
+        "Unnamed: 7": 9093183
+    },
+    {
+        "Unnamed: 0": 70,
+        "Unnamed: 1": "فندق الصداقة السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "سيدي حسين",
+        "Unnamed: 5": 47,
+        "Unnamed: 6": 156,
+        "Unnamed: 7": 9099795
+    },
+    {
+        "Unnamed: 0": 71,
+        "Unnamed: 1": "فندق فلسطين السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "ألصابري",
+        "Unnamed: 5": 78,
+        "Unnamed: 6": 211,
+        "Unnamed: 7": 3387635
+    },
+    {
+        "Unnamed: 0": 72,
+        "Unnamed: 1": "فندق قورينا",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "الصابري",
+        "Unnamed: 5": 75,
+        "Unnamed: 6": 120,
+        "Unnamed: 7": 87767
+    },
+    {
+        "Unnamed: 0": 73,
+        "Unnamed: 1": "القرية العائلية قاريونس",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "شارع الجزائر",
+        "Unnamed: 5": 460,
+        "Unnamed: 6": 330,
+        "Unnamed: 7": 9096350
+    },
+    {
+        "Unnamed: 0": 74,
+        "Unnamed: 1": "النادي الليبي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "الصابري",
+        "Unnamed: 5": 30,
+        "Unnamed: 6": 60,
+        "Unnamed: 7": "3371081/"
+    },
+    {
+        "Unnamed: 0": 75,
+        "Unnamed: 1": "نزل باب الخير",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "بنغازي المدينة",
+        "Unnamed: 5": 21,
+        "Unnamed: 6": 42,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 76,
+        "Unnamed: 1": "نزل الراحة",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "سيدي حسين",
+        "Unnamed: 5": 16,
+        "Unnamed: 6": 23,
+        "Unnamed: 7": 9081700
+    },
+    {
+        "Unnamed: 0": 77,
+        "Unnamed: 1": "فندق دوجال ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "شارع/  احمد رفيق المهدوى",
+        "Unnamed: 5": 39,
+        "Unnamed: 6": 70,
+        "Unnamed: 7": 619097613
+    },
+    {
+        "Unnamed: 0": 78,
+        "Unnamed: 1": "فندق النوران ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "الصابرى /ش الجزائر",
+        "Unnamed: 5": 54,
+        "Unnamed: 6": 99,
+        "Unnamed: 7": "337091/93"
+    },
+    {
+        "Unnamed: 0": 79,
+        "Unnamed: 1": "فندق المدينة المنورة ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "الصابرى ش- واد",
+        "Unnamed: 5": 65,
+        "Unnamed: 6": 125,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 80,
+        "Unnamed: 1": "فندق فكتوريا ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "ش/ أم العظام",
+        "Unnamed: 5": 25,
+        "Unnamed: 6": 50,
+        "Unnamed: 7": 925334886
+    },
+    {
+        "Unnamed: 0": 81,
+        "Unnamed: 1": "فندق الواحات السياحي ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "الصابرى ش الجزائر",
+        "Unnamed: 5": 72,
+        "Unnamed: 6": 120,
+        "Unnamed: 7": "3372781/85"
+    },
+    {
+        "Unnamed: 0": 82,
+        "Unnamed: 1": "فندق الهروج",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "بنغازي",
+        "Unnamed: 4": "الصابري",
+        "Unnamed: 5": 20,
+        "Unnamed: 6": 40,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 83,
+        "Unnamed: 1": "نزل  الإفريقي",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "درنة",
+        "Unnamed: 4": "الساحل الشرقي",
+        "Unnamed: 5": 18,
+        "Unnamed: 6": 33,
+        "Unnamed: 7": 927267809
+    },
+    {
+        "Unnamed: 0": 84,
+        "Unnamed: 1": "فندق البحر",
+        "Unnamed: 2": "مقفل",
+        "Unnamed: 3": "درنة",
+        "Unnamed: 4": "ش رافع الانصارى",
+        "Unnamed: 5": 43,
+        "Unnamed: 6": 68,
+        "Unnamed: 7": 926754955
+    },
+    {
+        "Unnamed: 0": 85,
+        "Unnamed: 1": "فندق الجبل الأخضر",
+        "Unnamed: 2": "مقفل",
+        "Unnamed: 3": "درنة",
+        "Unnamed: 4": "ش ميدان الثورة",
+        "Unnamed: 5": 26,
+        "Unnamed: 6": 35,
+        "Unnamed: 7": 925458750
+    },
+    {
+        "Unnamed: 0": 86,
+        "Unnamed: 1": "فندق النهضة",
+        "Unnamed: 2": "مقفل",
+        "Unnamed: 3": "درنة",
+        "Unnamed: 4": "شارع البياضة",
+        "Unnamed: 5": 20,
+        "Unnamed: 6": 30,
+        "Unnamed: 7": 6262455
+    },
+    {
+        "Unnamed: 0": 87,
+        "Unnamed: 1": "نزل الفردوس",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "درنة",
+        "Unnamed: 4": "شارع رافع  الانصارى",
+        "Unnamed: 5": 21,
+        "Unnamed: 6": 45,
+        "Unnamed: 7": 913829300
+    },
+    {
+        "Unnamed: 0": 88,
+        "Unnamed: 1": "نزل  المدينة",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "درنة",
+        "Unnamed: 4": "وسط المدينة",
+        "Unnamed: 5": 13,
+        "Unnamed: 6": 26,
+        "Unnamed: 7": 812622463
+    },
+    {
+        "Unnamed: 0": 89,
+        "Unnamed: 1": "القرية السياحية قوس قزح",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "درنة",
+        "Unnamed: 4": "رأس الهلال",
+        "Unnamed: 5": 13,
+        "Unnamed: 6": 41,
+        "Unnamed: 7": 913282330
+    },
+    {
+        "Unnamed: 0": 90,
+        "Unnamed: 1": "القرية السياحية رأس الهلال",
+        "Unnamed: 2": "تحت الصيانة",
+        "Unnamed: 3": "درنة",
+        "Unnamed: 4": "رأس الهلال",
+        "Unnamed: 5": 30,
+        "Unnamed: 6": 68,
+        "Unnamed: 7": 81630846
+    },
+    {
+        "Unnamed: 0": 91,
+        "Unnamed: 1": "مصيف 1805 العائلي",
+        "Unnamed: 2": "تحت الصيانة",
+        "Unnamed: 3": "درنة",
+        "Unnamed: 4": "الجبيلة",
+        "Unnamed: 5": 40,
+        "Unnamed: 6": 160,
+        "Unnamed: 7": 81623371
+    },
+    {
+        "Unnamed: 0": 92,
+        "Unnamed: 1": "القرية السياحية الينابيع",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "درنة",
+        "Unnamed: 4": "رأس الهلال",
+        "Unnamed: 5": 32,
+        "Unnamed: 6": 64,
+        "Unnamed: 7": 913822580
+    },
+    {
+        "Unnamed: 0": 93,
+        "Unnamed: 1": "نزل إيلاف",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "درنة",
+        "Unnamed: 4": "ش رافع الانصارى",
+        "Unnamed: 5": 12,
+        "Unnamed: 6": 24,
+        "Unnamed: 7": 924340152
+    },
+    {
+        "Unnamed: 0": 94,
+        "Unnamed: 1": "فندق زليتن",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "زليتن",
+        "Unnamed: 4": "زليتن/ محلة المنطرحة",
+        "Unnamed: 5": 64,
+        "Unnamed: 6": 128,
+        "Unnamed: 7": 521620121
+    },
+    {
+        "Unnamed: 0": 95,
+        "Unnamed: 1": "فندق القلعة  السياحي",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "سبها",
+        "Unnamed: 4": "5 أكتوبر",
+        "Unnamed: 5": 58,
+        "Unnamed: 6": 116,
+        "Unnamed: 7": "623104/"
+    },
+    {
+        "Unnamed: 0": 96,
+        "Unnamed: 1": "فندق الجبل السياحي",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "سبها",
+        "Unnamed: 4": "القاهرة",
+        "Unnamed: 5": 25,
+        "Unnamed: 6": 43,
+        "Unnamed: 7": "071629481-"
+    },
+    {
+        "Unnamed: 0": 97,
+        "Unnamed: 1": "فندق فزان",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "سبها",
+        "Unnamed: 4": "مسيرة 5 اكتوبر",
+        "Unnamed: 5": 108,
+        "Unnamed: 6": 145,
+        "Unnamed: 7": 71631910
+    },
+    {
+        "Unnamed: 0": 98,
+        "Unnamed: 1": "فندق الكاظم السياحي",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "سبها",
+        "Unnamed: 4": "المسيرة",
+        "Unnamed: 5": 20,
+        "Unnamed: 6": 35,
+        "Unnamed: 7": 712637359
+    },
+    {
+        "Unnamed: 0": 99,
+        "Unnamed: 1": "فندق الواحة",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "سبها",
+        "Unnamed: 4": "الحجارة",
+        "Unnamed: 5": 64,
+        "Unnamed: 6": 76,
+        "Unnamed: 7": "3628-2636424"
+    },
+    {
+        "Unnamed: 0": 100,
+        "Unnamed: 1": "فندق بيت سبها",
+        "Unnamed: 2": "4 نجوم",
+        "Unnamed: 3": "سبها",
+        "Unnamed: 4": "ش طريق اوباري",
+        "Unnamed: 5": 44,
+        "Unnamed: 6": 68,
+        "Unnamed: 7": 712637300
+    },
+    {
+        "Unnamed: 0": 101,
+        "Unnamed: 1": "فندق افريقيا",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "سبها",
+        "Unnamed: 4": "القرضة",
+        "Unnamed: 5": 101,
+        "Unnamed: 6": 202,
+        "Unnamed: 7": 623952
+    },
+    {
+        "Unnamed: 0": 102,
+        "Unnamed: 1": "مجمع خليج سرت للمؤتمرات",
+        "Unnamed: 2": "4 نجوم",
+        "Unnamed: 3": "سرت",
+        "Unnamed: 4": "محلة الرباط الامامى /ش أفريقيا",
+        "Unnamed: 5": 192,
+        "Unnamed: 6": 384,
+        "Unnamed: 7": 912158832
+    },
+    {
+        "Unnamed: 0": 103,
+        "Unnamed: 1": "فندق المهاري",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "سرت",
+        "Unnamed: 4": "سرت",
+        "Unnamed: 5": 54,
+        "Unnamed: 6": 108,
+        "Unnamed: 7": "104-60100"
+    },
+    {
+        "Unnamed: 0": 104,
+        "Unnamed: 1": "فندق السلام",
+        "Unnamed: 2": "مقفل",
+        "Unnamed: 3": "سرت",
+        "Unnamed: 4": "سرت",
+        "Unnamed: 5": 14,
+        "Unnamed: 6": 60,
+        "Unnamed: 7": 913852900
+    },
+    {
+        "Unnamed: 0": 105,
+        "Unnamed: 1": "فندق الهيشة الجديدة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "سرت",
+        "Unnamed: 4": "الهيشة /ش-بنغازى",
+        "Unnamed: 5": 49,
+        "Unnamed: 6": 98,
+        "Unnamed: 7": 5292403
+    },
+    {
+        "Unnamed: 0": 106,
+        "Unnamed: 1": "فندق باب المدينة",
+        "Unnamed: 2": "مقفل",
+        "Unnamed: 3": "سرت",
+        "Unnamed: 4": "سرت",
+        "Unnamed: 5": 55,
+        "Unnamed: 6": 120,
+        "Unnamed: 7": 913734530
+    },
+    {
+        "Unnamed: 0": 107,
+        "Unnamed: 1": "نزل الوفاء",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "سرت",
+        "Unnamed: 4": "سرت",
+        "Unnamed: 5": 12,
+        "Unnamed: 6": 24,
+        "Unnamed: 7": 913785940
+    },
+    {
+        "Unnamed: 0": 108,
+        "Unnamed: 1": "فندق إفريقيا",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "سرت",
+        "Unnamed: 4": "الرباط الامامي",
+        "Unnamed: 5": 24,
+        "Unnamed: 6": 48,
+        "Unnamed: 7": 91324942
+    },
+    {
+        "Unnamed: 0": 109,
+        "Unnamed: 1": "فندق المدينة",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "سرت",
+        "Unnamed: 4": "سرت المركز",
+        "Unnamed: 5": 72,
+        "Unnamed: 6": 144,
+        "Unnamed: 7": 913739284
+    },
+    {
+        "Unnamed: 0": 110,
+        "Unnamed: 1": "فندق الفضيل السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "سرت",
+        "Unnamed: 4": "رأس لانوف",
+        "Unnamed: 5": 64,
+        "Unnamed: 6": 64,
+        "Unnamed: 7": 912092829
+    },
+    {
+        "Unnamed: 0": 111,
+        "Unnamed: 1": "فندق المسيرة",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طبرق",
+        "Unnamed: 4": "طبرق",
+        "Unnamed: 5": 165,
+        "Unnamed: 6": 330,
+        "Unnamed: 7": "087625760 -68"
+    },
+    {
+        "Unnamed: 0": 112,
+        "Unnamed: 1": "نزل قرطاج",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طبرق",
+        "Unnamed: 4": "الطريق الدائري",
+        "Unnamed: 5": 27,
+        "Unnamed: 6": 63,
+        "Unnamed: 7": 877620441
+    },
+    {
+        "Unnamed: 0": 113,
+        "Unnamed: 1": "فندق الجلاء",
+        "Unnamed: 2": "مقفل",
+        "Unnamed: 3": "طبرق",
+        "Unnamed: 4": "طبرق/ش الفضيل",
+        "Unnamed: 5": 30,
+        "Unnamed: 6": 40,
+        "Unnamed: 7": 622310
+    },
+    {
+        "Unnamed: 0": 114,
+        "Unnamed: 1": "فندق الأموي",
+        "Unnamed: 2": "مقفل",
+        "Unnamed: 3": "طبرق",
+        "Unnamed: 4": "طبرق/ش أول سبتمبر",
+        "Unnamed: 5": 35,
+        "Unnamed: 6": 75,
+        "Unnamed: 7": 623818
+    },
+    {
+        "Unnamed: 0": 115,
+        "Unnamed: 1": "فندق زين( 1) للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طبرق",
+        "Unnamed: 4": "طبرق",
+        "Unnamed: 5": 10,
+        "Unnamed: 6": 40,
+        "Unnamed: 7": 925483316
+    },
+    {
+        "Unnamed: 0": 116,
+        "Unnamed: 1": "فندق الجبل الأخضر",
+        "Unnamed: 2": "مقفل",
+        "Unnamed: 3": "طبرق",
+        "Unnamed: 4": "طبرق",
+        "Unnamed: 5": 32,
+        "Unnamed: 6": 47,
+        "Unnamed: 7": 926392377
+    },
+    {
+        "Unnamed: 0": 117,
+        "Unnamed: 1": "فندق الخليج للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طبرق",
+        "Unnamed: 4": "طبرق",
+        "Unnamed: 5": 13,
+        "Unnamed: 6": 48,
+        "Unnamed: 7": 925798372
+    },
+    {
+        "Unnamed: 0": 118,
+        "Unnamed: 1": "نزل الجمل",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "طبرق",
+        "Unnamed: 4": "أمساعد/الطريق الرئيسي",
+        "Unnamed: 5": 41,
+        "Unnamed: 6": 120,
+        "Unnamed: 7": 913560881
+    },
+    {
+        "Unnamed: 0": 119,
+        "Unnamed: 1": "فندق أمساعد",
+        "Unnamed: 2": "مقفل",
+        "Unnamed: 3": "طبرق",
+        "Unnamed: 4": "أمساعد",
+        "Unnamed: 5": 24,
+        "Unnamed: 6": 55,
+        "Unnamed: 7": 913108052
+    },
+    {
+        "Unnamed: 0": 120,
+        "Unnamed: 1": "فندق العرب",
+        "Unnamed: 2": "مقفل",
+        "Unnamed: 3": "طبرق",
+        "Unnamed: 4": "أمساعد",
+        "Unnamed: 5": 10,
+        "Unnamed: 6": 24,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 121,
+        "Unnamed: 1": "نزل الجغبوب",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طبرق",
+        "Unnamed: 4": "طبرق",
+        "Unnamed: 5": 29,
+        "Unnamed: 6": 53,
+        "Unnamed: 7": 876628260
+    },
+    {
+        "Unnamed: 0": 122,
+        "Unnamed: 1": "القافلة للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طبرق",
+        "Unnamed: 4": "طبرق",
+        "Unnamed: 5": 6,
+        "Unnamed: 6": 30,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 123,
+        "Unnamed: 1": "زين (2) للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طبرق",
+        "Unnamed: 4": "طبرق /حى الحرية",
+        "Unnamed: 5": 6,
+        "Unnamed: 6": 36,
+        "Unnamed: 7": 925483316
+    },
+    {
+        "Unnamed: 0": 124,
+        "Unnamed: 1": "فندق البردي",
+        "Unnamed: 2": "نجمتان",
+        "Unnamed: 3": "طبرق",
+        "Unnamed: 4": "طبرق",
+        "Unnamed: 5": 21,
+        "Unnamed: 6": 40,
+        "Unnamed: 7": 913824418
+    },
+    {
+        "Unnamed: 0": 125,
+        "Unnamed: 1": "فندق برج كورنثيا باب أفريقيا",
+        "Unnamed: 2": "5 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "سوق الثلاثاء القديم",
+        "Unnamed: 5": 299,
+        "Unnamed: 6": 344,
+        "Unnamed: 7": 3351990
+    },
+    {
+        "Unnamed: 0": 126,
+        "Unnamed: 1": "فندق المهاري رادسون بلو",
+        "Unnamed: 2": "5 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "شهداء الشط",
+        "Unnamed: 5": 351,
+        "Unnamed: 6": 395,
+        "Unnamed: 7": 213407878
+    },
+    {
+        "Unnamed: 0": 127,
+        "Unnamed: 1": "الفندق الكبير",
+        "Unnamed: 2": "4 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "شارع الفتح",
+        "Unnamed: 5": 322,
+        "Unnamed: 6": 444,
+        "Unnamed: 7": 4445949
+    },
+    {
+        "Unnamed: 0": 128,
+        "Unnamed: 1": "فندق باب البحر",
+        "Unnamed: 2": "4 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "مقابل برج الفاتح",
+        "Unnamed: 5": 403,
+        "Unnamed: 6": 492,
+        "Unnamed: 7": 3350676
+    },
+    {
+        "Unnamed: 0": 129,
+        "Unnamed: 1": "فندق بلازما",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش . عمر المختار",
+        "Unnamed: 5": 39,
+        "Unnamed: 6": 48,
+        "Unnamed: 7": 3331172
+    },
+    {
+        "Unnamed: 0": 130,
+        "Unnamed: 1": "فندق الواحات",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش. عمر المختار",
+        "Unnamed: 5": 304,
+        "Unnamed: 6": 608,
+        "Unnamed: 7": 4445051
+    },
+    {
+        "Unnamed: 0": 131,
+        "Unnamed: 1": " فندق بوابة إفريقيا ",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المسيرة الكبرى",
+        "Unnamed: 5": 50,
+        "Unnamed: 6": 108,
+        "Unnamed: 7": 4447086
+    },
+    {
+        "Unnamed: 0": 132,
+        "Unnamed: 1": "فندق الثريا ",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 48,
+        "Unnamed: 6": 90,
+        "Unnamed: 7": 913332665
+    },
+    {
+        "Unnamed: 0": 133,
+        "Unnamed: 1": "فندق الضيافة",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "شارع الرازي",
+        "Unnamed: 5": 32,
+        "Unnamed: 6": 62,
+        "Unnamed: 7": 4448182
+    },
+    {
+        "Unnamed: 0": 134,
+        "Unnamed: 1": "فندق طيبة",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 22,
+        "Unnamed: 6": 45,
+        "Unnamed: 7": 3333575
+    },
+    {
+        "Unnamed: 0": 135,
+        "Unnamed: 1": "فندق الكندي",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش. كندي",
+        "Unnamed: 5": 45,
+        "Unnamed: 6": 92,
+        "Unnamed: 7": 4448123
+    },
+    {
+        "Unnamed: 0": 136,
+        "Unnamed: 1": "فندق أمواج",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش . زاوية الدهماني",
+        "Unnamed: 5": 35,
+        "Unnamed: 6": 65,
+        "Unnamed: 7": 3403570
+    },
+    {
+        "Unnamed: 0": 137,
+        "Unnamed: 1": "نزل سرايا الليبو",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ساحة بالخير",
+        "Unnamed: 5": 19,
+        "Unnamed: 6": 34,
+        "Unnamed: 7": 4448621
+    },
+    {
+        "Unnamed: 0": 138,
+        "Unnamed: 1": "نزل النهر",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش الرشيد",
+        "Unnamed: 5": 35,
+        "Unnamed: 6": 70,
+        "Unnamed: 7": 4444690
+    },
+    {
+        "Unnamed: 0": 139,
+        "Unnamed: 1": "فندق القنصل ",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 21,
+        "Unnamed: 6": 42,
+        "Unnamed: 7": 927000696
+    },
+    {
+        "Unnamed: 0": 140,
+        "Unnamed: 1": "نزل الزهور",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "الساحة الخضراء",
+        "Unnamed: 5": 27,
+        "Unnamed: 6": 50,
+        "Unnamed: 7": 3338163
+    },
+    {
+        "Unnamed: 0": 141,
+        "Unnamed: 1": "فندق توباكتس",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش – عمر المختار",
+        "Unnamed: 5": 96,
+        "Unnamed: 6": 192,
+        "Unnamed: 7": 3344519
+    },
+    {
+        "Unnamed: 0": 142,
+        "Unnamed: 1": "نزل كليوباترا",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "الظهرة",
+        "Unnamed: 5": 36,
+        "Unnamed: 6": 60,
+        "Unnamed: 7": 4441886
+    },
+    {
+        "Unnamed: 0": 143,
+        "Unnamed: 1": "فندق التوفيق",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "الظهرة",
+        "Unnamed: 5": 49,
+        "Unnamed: 6": 98,
+        "Unnamed: 7": 4443192
+    },
+    {
+        "Unnamed: 0": 144,
+        "Unnamed: 1": "فندق اليسر",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "الظهرة",
+        "Unnamed: 5": 32,
+        "Unnamed: 6": 50,
+        "Unnamed: 7": 3330911
+    },
+    {
+        "Unnamed: 0": 145,
+        "Unnamed: 1": "فندق الأندلس",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 22,
+        "Unnamed: 6": 40,
+        "Unnamed: 7": 3343777
+    },
+    {
+        "Unnamed: 0": 146,
+        "Unnamed: 1": "فندق الفتح",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 105,
+        "Unnamed: 6": 297,
+        "Unnamed: 7": 3343219
+    },
+    {
+        "Unnamed: 0": 147,
+        "Unnamed: 1": "فندق الفصول الأربعة ( 1 )",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش عمر المختار",
+        "Unnamed: 5": 52,
+        "Unnamed: 6": 104,
+        "Unnamed: 7": 3332151
+    },
+    {
+        "Unnamed: 0": 148,
+        "Unnamed: 1": "فندق النورس",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "محلة الظهرة ش سحبان ابن وائل",
+        "Unnamed: 5": 35,
+        "Unnamed: 6": 65,
+        "Unnamed: 7": 4446408
+    },
+    {
+        "Unnamed: 0": 149,
+        "Unnamed: 1": "فندق ديكنة",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش جمال عبدالناصر",
+        "Unnamed: 5": 28,
+        "Unnamed: 6": 56,
+        "Unnamed: 7": 4444403
+    },
+    {
+        "Unnamed: 0": 150,
+        "Unnamed: 1": "فندق الرحاب",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "محلة المدينة القديمة ش ابن مطروح",
+        "Unnamed: 5": 53,
+        "Unnamed: 6": 106,
+        "Unnamed: 7": 4449279
+    },
+    {
+        "Unnamed: 0": 151,
+        "Unnamed: 1": "فندق الدوحة",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش الرازي",
+        "Unnamed: 5": 30,
+        "Unnamed: 6": 54,
+        "Unnamed: 7": 4449373
+    },
+    {
+        "Unnamed: 0": 152,
+        "Unnamed: 1": "فندق أسامة",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "محلة المسيرة الكبرى ش الصافي",
+        "Unnamed: 5": 32,
+        "Unnamed: 6": 54,
+        "Unnamed: 7": 3338037
+    },
+    {
+        "Unnamed: 0": 153,
+        "Unnamed: 1": "فندق الشجرة",
+        "Unnamed: 2": "4 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "الظهرة",
+        "Unnamed: 5": 70,
+        "Unnamed: 6": 134,
+        "Unnamed: 7": 4449595
+    },
+    {
+        "Unnamed: 0": 154,
+        "Unnamed: 1": "قرية تاجوراء السياحية",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "تاجوراء الطريق الساحلي",
+        "Unnamed: 5": 152,
+        "Unnamed: 6": 304,
+        "Unnamed: 7": 3696061
+    },
+    {
+        "Unnamed: 0": 155,
+        "Unnamed: 1": "فندق الصفوة للشقق الفندقية",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش – البلدية",
+        "Unnamed: 5": 23,
+        "Unnamed: 6": 46,
+        "Unnamed: 7": 3334422
+    },
+    {
+        "Unnamed: 0": 156,
+        "Unnamed: 1": "فندق الشاطئ الذهبي",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 20,
+        "Unnamed: 6": 40,
+        "Unnamed: 7": 912125988
+    },
+    {
+        "Unnamed: 0": 157,
+        "Unnamed: 1": "نزل الساحل الغربي",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش- بلخير",
+        "Unnamed: 5": 27,
+        "Unnamed: 6": 47,
+        "Unnamed: 7": 3335611
+    },
+    {
+        "Unnamed: 0": 158,
+        "Unnamed: 1": "فندق الديار",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش- عمر المختار",
+        "Unnamed: 5": 33,
+        "Unnamed: 6": 57,
+        "Unnamed: 7": 913111555
+    },
+    {
+        "Unnamed: 0": 159,
+        "Unnamed: 1": "فندق المختار",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 48,
+        "Unnamed: 6": 96,
+        "Unnamed: 7": 4449521
+    },
+    {
+        "Unnamed: 0": 160,
+        "Unnamed: 1": "فندق الدبلوماسي",
+        "Unnamed: 2": "4 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش- احمد شوقي",
+        "Unnamed: 5": 64,
+        "Unnamed: 6": 128,
+        "Unnamed: 7": 4447105
+    },
+    {
+        "Unnamed: 0": 161,
+        "Unnamed: 1": "فندق الفصول الاربعة (2)",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 52,
+        "Unnamed: 6": 104,
+        "Unnamed: 7": 3331283
+    },
+    {
+        "Unnamed: 0": 162,
+        "Unnamed: 1": "فندق الاخوة",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 72,
+        "Unnamed: 6": 144,
+        "Unnamed: 7": 3336222
+    },
+    {
+        "Unnamed: 0": 163,
+        "Unnamed: 1": "فندق السفير",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 42,
+        "Unnamed: 6": 84,
+        "Unnamed: 7": 4443185
+    },
+    {
+        "Unnamed: 0": 164,
+        "Unnamed: 1": "فندق السلاسل الذهبية ",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش . عمر المختار",
+        "Unnamed: 5": 56,
+        "Unnamed: 6": 93,
+        "Unnamed: 7": 4446864
+    },
+    {
+        "Unnamed: 0": 165,
+        "Unnamed: 1": "فندق السندباد ",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 26,
+        "Unnamed: 6": 52,
+        "Unnamed: 7": 4446864
+    },
+    {
+        "Unnamed: 0": 166,
+        "Unnamed: 1": "فندق سفارى ",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش . طارق بن زياد",
+        "Unnamed: 5": 52,
+        "Unnamed: 6": 96,
+        "Unnamed: 7": 3333008
+    },
+    {
+        "Unnamed: 0": 167,
+        "Unnamed: 1": "نزل زهرة الخليج ",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش . ابن الرومي",
+        "Unnamed: 5": 36,
+        "Unnamed: 6": 75,
+        "Unnamed: 7": 21331346
+    },
+    {
+        "Unnamed: 0": 168,
+        "Unnamed: 1": "فندق الريان ",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش . عمر المختار",
+        "Unnamed: 5": 49,
+        "Unnamed: 6": 98,
+        "Unnamed: 7": 4445544
+    },
+    {
+        "Unnamed: 0": 169,
+        "Unnamed: 1": "فندق الصافي ",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المسيرة الكبرى",
+        "Unnamed: 5": 41,
+        "Unnamed: 6": 62,
+        "Unnamed: 7": 4444011
+    },
+    {
+        "Unnamed: 0": 170,
+        "Unnamed: 1": "نزل الرشيد ",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش . الرشيد",
+        "Unnamed: 5": 88,
+        "Unnamed: 6": 136,
+        "Unnamed: 7": 4444505
+    },
+    {
+        "Unnamed: 0": 171,
+        "Unnamed: 1": "نزل مرحبا ",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "الظهرة",
+        "Unnamed: 5": 61,
+        "Unnamed: 6": 98,
+        "Unnamed: 7": 3334646
+    },
+    {
+        "Unnamed: 0": 172,
+        "Unnamed: 1": "فندق المأمون",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش . المأمون",
+        "Unnamed: 5": 45,
+        "Unnamed: 6": 90,
+        "Unnamed: 7": 3333372
+    },
+    {
+        "Unnamed: 0": 173,
+        "Unnamed: 1": "فندق الانتصار",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ميدان السويحلي",
+        "Unnamed: 5": 22,
+        "Unnamed: 6": 55,
+        "Unnamed: 7": 925284810
+    },
+    {
+        "Unnamed: 0": 174,
+        "Unnamed: 1": "فندق أجنحة الشاطئ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "حي الاندلس",
+        "Unnamed: 5": 96,
+        "Unnamed: 6": 192,
+        "Unnamed: 7": 925268497
+    },
+    {
+        "Unnamed: 0": 175,
+        "Unnamed: 1": "فندق أطلس",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش. عمر المختار",
+        "Unnamed: 5": 52,
+        "Unnamed: 6": 106,
+        "Unnamed: 7": 3336816
+    },
+    {
+        "Unnamed: 0": 176,
+        "Unnamed: 1": "فندق العالم العربي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش. الرشيد",
+        "Unnamed: 5": 42,
+        "Unnamed: 6": 110,
+        "Unnamed: 7": 3336055
+    },
+    {
+        "Unnamed: 0": 177,
+        "Unnamed: 1": "فندق الفردوس",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش الرشيد",
+        "Unnamed: 5": 33,
+        "Unnamed: 6": 65,
+        "Unnamed: 7": 913211735
+    },
+    {
+        "Unnamed: 0": 178,
+        "Unnamed: 1": "فندق الجبل الأخضر",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش المأمون",
+        "Unnamed: 5": 45,
+        "Unnamed: 6": 114,
+        "Unnamed: 7": 3336603
+    },
+    {
+        "Unnamed: 0": 179,
+        "Unnamed: 1": "فندق السلام الرئيسي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش الرشيد",
+        "Unnamed: 5": 40,
+        "Unnamed: 6": 75,
+        "Unnamed: 7": 4440554
+    },
+    {
+        "Unnamed: 0": 180,
+        "Unnamed: 1": "فندق السلام الفرعي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 11,
+        "Unnamed: 6": 27,
+        "Unnamed: 7": 333385
+    },
+    {
+        "Unnamed: 0": 181,
+        "Unnamed: 1": "فندق طرابلس الحديث",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش الرشيد",
+        "Unnamed: 5": 52,
+        "Unnamed: 6": 183,
+        "Unnamed: 7": 4441094
+    },
+    {
+        "Unnamed: 0": 182,
+        "Unnamed: 1": "الفندق السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش عمر المختار",
+        "Unnamed: 5": 38,
+        "Unnamed: 6": 85,
+        "Unnamed: 7": 913241414
+    },
+    {
+        "Unnamed: 0": 183,
+        "Unnamed: 1": "فندق أوروبا",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش مصطفى كامل",
+        "Unnamed: 5": 33,
+        "Unnamed: 6": 62,
+        "Unnamed: 7": 913241414
+    },
+    {
+        "Unnamed: 0": 184,
+        "Unnamed: 1": "فندق الأنيس",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "شارع سيدى البهلول",
+        "Unnamed: 5": 30,
+        "Unnamed: 6": 56,
+        "Unnamed: 7": 913134359
+    },
+    {
+        "Unnamed: 0": 185,
+        "Unnamed: 1": "فندق طرابلس الغرب",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش المسيرة الكبري",
+        "Unnamed: 5": 25,
+        "Unnamed: 6": 55,
+        "Unnamed: 7": 4448559
+    },
+    {
+        "Unnamed: 0": 186,
+        "Unnamed: 1": "فندق الصحارى",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش الوادي",
+        "Unnamed: 5": 19,
+        "Unnamed: 6": 34,
+        "Unnamed: 7": 926488206
+    },
+    {
+        "Unnamed: 0": 187,
+        "Unnamed: 1": "فندق الشرق",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش جمال عبدالناصر",
+        "Unnamed: 5": 49,
+        "Unnamed: 6": 113,
+        "Unnamed: 7": 3336555
+    },
+    {
+        "Unnamed: 0": 188,
+        "Unnamed: 1": "فندق لبدة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش ميزران",
+        "Unnamed: 5": 25,
+        "Unnamed: 6": 45,
+        "Unnamed: 7": 3331558
+    },
+    {
+        "Unnamed: 0": 189,
+        "Unnamed: 1": "فندق البحر الأبيض المتوسط",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "طرابلس",
+        "Unnamed: 5": 290,
+        "Unnamed: 6": 446,
+        "Unnamed: 7": "15-3616711"
+    },
+    {
+        "Unnamed: 0": 190,
+        "Unnamed: 1": "فندق النصر",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "طرابلس",
+        "Unnamed: 5": 62,
+        "Unnamed: 6": 125,
+        "Unnamed: 7": 925292128
+    },
+    {
+        "Unnamed: 0": 191,
+        "Unnamed: 1": "فندق البريد",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "طرابلس",
+        "Unnamed: 5": 20,
+        "Unnamed: 6": 51,
+        "Unnamed: 7": 3332509
+    },
+    {
+        "Unnamed: 0": 192,
+        "Unnamed: 1": "فندق الكرامة ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "قرية البوعيشى",
+        "Unnamed: 5": 42,
+        "Unnamed: 6": 87,
+        "Unnamed: 7": 928433399
+    },
+    {
+        "Unnamed: 0": 193,
+        "Unnamed: 1": "فندق المنار",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "طرابلس",
+        "Unnamed: 5": 20,
+        "Unnamed: 6": 96,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 194,
+        "Unnamed: 1": "فندق هايتي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "طرابلس",
+        "Unnamed: 5": 50,
+        "Unnamed: 6": 118,
+        "Unnamed: 7": "39-3330030"
+    },
+    {
+        "Unnamed: 0": 195,
+        "Unnamed: 1": "فندق الأولمبي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "طرابلس",
+        "Unnamed: 5": 28,
+        "Unnamed: 6": 51,
+        "Unnamed: 7": 926478124
+    },
+    {
+        "Unnamed: 0": 196,
+        "Unnamed: 1": "فندق الوحدة العربية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "طرابلس",
+        "Unnamed: 5": 19,
+        "Unnamed: 6": 30,
+        "Unnamed: 7": 4449131
+    },
+    {
+        "Unnamed: 0": 197,
+        "Unnamed: 1": "فندق أبن الرومي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 15,
+        "Unnamed: 6": 62,
+        "Unnamed: 7": 4447008
+    },
+    {
+        "Unnamed: 0": 198,
+        "Unnamed: 1": "فندق ميدان الساعة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "خلف مصرف ليبيا المركزى",
+        "Unnamed: 5": 22,
+        "Unnamed: 6": 36,
+        "Unnamed: 7": 925215661
+    },
+    {
+        "Unnamed: 0": 199,
+        "Unnamed: 1": "فندق الواحة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "حي دمشق",
+        "Unnamed: 5": 21,
+        "Unnamed: 6": 35,
+        "Unnamed: 7": 925242674
+    },
+    {
+        "Unnamed: 0": 200,
+        "Unnamed: 1": "فندق الهناء ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 11,
+        "Unnamed: 6": 31,
+        "Unnamed: 7": 4445452
+    },
+    {
+        "Unnamed: 0": 201,
+        "Unnamed: 1": "فندق الميدان",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش ميزران",
+        "Unnamed: 5": 21,
+        "Unnamed: 6": 33,
+        "Unnamed: 7": 925226487
+    },
+    {
+        "Unnamed: 0": 202,
+        "Unnamed: 1": "فندق تونس",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش عمر المختار",
+        "Unnamed: 5": 9,
+        "Unnamed: 6": 28,
+        "Unnamed: 7": 925428957
+    },
+    {
+        "Unnamed: 0": 203,
+        "Unnamed: 1": "فندق صبراته",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ميدان السويحلي",
+        "Unnamed: 5": 14,
+        "Unnamed: 6": 37,
+        "Unnamed: 7": 3331845
+    },
+    {
+        "Unnamed: 0": 204,
+        "Unnamed: 1": "فندق شمال أفريقيا",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 22,
+        "Unnamed: 6": 60,
+        "Unnamed: 7": 4441773
+    },
+    {
+        "Unnamed: 0": 205,
+        "Unnamed: 1": "قرية المغرب العربي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة السياحية",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": "5-4832301"
+    },
+    {
+        "Unnamed: 0": 206,
+        "Unnamed: 1": "فندق السهم",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 12,
+        "Unnamed: 6": 18,
+        "Unnamed: 7": 913775688
+    },
+    {
+        "Unnamed: 0": 207,
+        "Unnamed: 1": "فندق بلخير",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المسيرة الكبرى",
+        "Unnamed: 5": 30,
+        "Unnamed: 6": 74,
+        "Unnamed: 7": 4448360
+    },
+    {
+        "Unnamed: 0": 208,
+        "Unnamed: 1": "فندق الغصن الذهبي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 6,
+        "Unnamed: 6": 15,
+        "Unnamed: 7": 4443243
+    },
+    {
+        "Unnamed: 0": 209,
+        "Unnamed: 1": "نزل بيروت",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 9,
+        "Unnamed: 6": 25,
+        "Unnamed: 7": 3337885
+    },
+    {
+        "Unnamed: 0": 210,
+        "Unnamed: 1": "فندق جنان النوار",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "الساحة الخضراء",
+        "Unnamed: 5": 15,
+        "Unnamed: 6": 30,
+        "Unnamed: 7": 913864510
+    },
+    {
+        "Unnamed: 0": 211,
+        "Unnamed: 1": "فندق الياسمينة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "الظهرة",
+        "Unnamed: 5": 42,
+        "Unnamed: 6": 80,
+        "Unnamed: 7": 4446661
+    },
+    {
+        "Unnamed: 0": 212,
+        "Unnamed: 1": "فندق زميت السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 14,
+        "Unnamed: 6": 15,
+        "Unnamed: 7": 4440683
+    },
+    {
+        "Unnamed: 0": 213,
+        "Unnamed: 1": "فندق النجمة ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المسيرة الكبرى",
+        "Unnamed: 5": 32,
+        "Unnamed: 6": 56,
+        "Unnamed: 7": 926853303
+    },
+    {
+        "Unnamed: 0": 214,
+        "Unnamed: 1": "فندق الهانى ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش . الكندى",
+        "Unnamed: 5": 48,
+        "Unnamed: 6": 56,
+        "Unnamed: 7": 3332173
+    },
+    {
+        "Unnamed: 0": 215,
+        "Unnamed: 1": "فندق قصر ليبيا ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "الظهرة",
+        "Unnamed: 5": 378,
+        "Unnamed: 6": 649,
+        "Unnamed: 7": "3331181/9"
+    },
+    {
+        "Unnamed: 0": 216,
+        "Unnamed: 1": "قرية الاندلسى ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "تاجوراء",
+        "Unnamed: 5": 115,
+        "Unnamed: 6": 220,
+        "Unnamed: 7": 3690034
+    },
+    {
+        "Unnamed: 0": 217,
+        "Unnamed: 1": "فندق نزهة ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المنشية",
+        "Unnamed: 5": 14,
+        "Unnamed: 6": 17,
+        "Unnamed: 7": 3601237
+    },
+    {
+        "Unnamed: 0": 218,
+        "Unnamed: 1": "فندق ريباس",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "زاوية الدهمانى",
+        "Unnamed: 5": 28,
+        "Unnamed: 6": 50,
+        "Unnamed: 7": 3409733
+    },
+    {
+        "Unnamed: 0": 219,
+        "Unnamed: 1": "فندق الودان ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "الظهرة",
+        "Unnamed: 5": 91,
+        "Unnamed: 6": 180,
+        "Unnamed: 7": "3330041/45"
+    },
+    {
+        "Unnamed: 0": 220,
+        "Unnamed: 1": "فندق الحديقة ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "الساحة الخضراء",
+        "Unnamed: 5": 22,
+        "Unnamed: 6": 39,
+        "Unnamed: 7": 3330081
+    },
+    {
+        "Unnamed: 0": 221,
+        "Unnamed: 1": "فندق اليقين",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش- الرازى",
+        "Unnamed: 5": 26,
+        "Unnamed: 6": 52,
+        "Unnamed: 7": 926472903
+    },
+    {
+        "Unnamed: 0": 222,
+        "Unnamed: 1": "فندق السفينة الزقاء ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "طريق الشط",
+        "Unnamed: 5": 91,
+        "Unnamed: 6": 165,
+        "Unnamed: 7": 3511164
+    },
+    {
+        "Unnamed: 0": 223,
+        "Unnamed: 1": "فندق غرناطة ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش . البلدية",
+        "Unnamed: 5": 25,
+        "Unnamed: 6": 41,
+        "Unnamed: 7": 3336128
+    },
+    {
+        "Unnamed: 0": 224,
+        "Unnamed: 1": "فندق المتوسط",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش- أول سبتمبر",
+        "Unnamed: 5": 36,
+        "Unnamed: 6": 72,
+        "Unnamed: 7": 213331210
+    },
+    {
+        "Unnamed: 0": 225,
+        "Unnamed: 1": "فندق عمير",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 58,
+        "Unnamed: 6": 126,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 226,
+        "Unnamed: 1": "فندق طرابلس الدولى",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 63,
+        "Unnamed: 6": 100,
+        "Unnamed: 7": 213344921
+    },
+    {
+        "Unnamed: 0": 227,
+        "Unnamed: 1": "فندق بيت الشرق",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 49,
+        "Unnamed: 6": 113,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 228,
+        "Unnamed: 1": "فندق السرايا السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "ش/ عمر المختار",
+        "Unnamed: 5": 40,
+        "Unnamed: 6": 80,
+        "Unnamed: 7": 3345082
+    },
+    {
+        "Unnamed: 0": 229,
+        "Unnamed: 1": "فندق الخان الطرابلسي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 14,
+        "Unnamed: 6": 29,
+        "Unnamed: 7": 3344917
+    },
+    {
+        "Unnamed: 0": 230,
+        "Unnamed: 1": "فندق ليبيا السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المسيرة الكبرى",
+        "Unnamed: 5": 70,
+        "Unnamed: 6": 77,
+        "Unnamed: 7": 3331398
+    },
+    {
+        "Unnamed: 0": 231,
+        "Unnamed: 1": "فندق المبروك",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس",
+        "Unnamed: 4": "المدينة القديمة",
+        "Unnamed: 5": 37,
+        "Unnamed: 6": 70,
+        "Unnamed: 7": 217155680
+    },
+    {
+        "Unnamed: 0": 232,
+        "Unnamed: 1": "فندق الجودة ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "السندباد ",
+        "Unnamed: 5": 86,
+        "Unnamed: 6": 172,
+        "Unnamed: 7": 4440683
+    },
+    {
+        "Unnamed: 0": 233,
+        "Unnamed: 1": "فندق ابن فرناس ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "مطار طرابلس الدولى ",
+        "Unnamed: 5": 36,
+        "Unnamed: 6": 72,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 234,
+        "Unnamed: 1": "فندق الليلك",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "الظهرة",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": "021-3342016"
+    },
+    {
+        "Unnamed: 0": 235,
+        "Unnamed: 1": "الدلتا للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "عين زارة طريق المشتل",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": "092-2052963"
+    },
+    {
+        "Unnamed: 0": 236,
+        "Unnamed: 1": "اجنحة كراون للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "عين زارة طريق المشتل",
+        "Unnamed: 5": 8,
+        "Unnamed: 6": 16,
+        "Unnamed: 7": 946301234
+    },
+    {
+        "Unnamed: 0": 237,
+        "Unnamed: 1": "أجنحة الفوانيس للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شارع مدرسة دريبيكه",
+        "Unnamed: 5": 12,
+        "Unnamed: 6": 32,
+        "Unnamed: 7": "092-0161405"
+    },
+    {
+        "Unnamed: 0": 238,
+        "Unnamed: 1": "أجنحة الماسة للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شارع ميزران",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": "091-0496633"
+    },
+    {
+        "Unnamed: 0": 239,
+        "Unnamed: 1": "جوهرة السلام للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "عين زارة طريق المشتل",
+        "Unnamed: 5": 24,
+        "Unnamed: 6": 48,
+        "Unnamed: 7": "091-9832626"
+    },
+    {
+        "Unnamed: 0": 240,
+        "Unnamed: 1": "فندق القصر",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "الظهرة خلف المؤسسة الوطنية للنفظ",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": "021-7325887"
+    },
+    {
+        "Unnamed: 0": 241,
+        "Unnamed: 1": "فنادق رويال جاردنز",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "الظهرة خلف المؤسسة الوطنية للنفظ",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": 919770742
+    },
+    {
+        "Unnamed: 0": 242,
+        "Unnamed: 1": "فندق الماسة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شارع البلدية - خلف متحف ليبيا",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 243,
+        "Unnamed: 1": "فندق جاكرتا",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شارع جاكرتا بالقرب من جزيرة (جنة العريف)",
+        "Unnamed: 5": 70,
+        "Unnamed: 6": 140,
+        "Unnamed: 7": "091-6900028"
+    },
+    {
+        "Unnamed: 0": 244,
+        "Unnamed: 1": "فندق المتوسط",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شارع 24 ديسمبر اول سبتمبر",
+        "Unnamed: 5": 39,
+        "Unnamed: 6": 41,
+        "Unnamed: 7": "091-7980523"
+    },
+    {
+        "Unnamed: 0": 245,
+        "Unnamed: 1": "فندق الوادي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شارع الوداي خلف مدرسة علي وريث الثانوية",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": "021-3346390"
+    },
+    {
+        "Unnamed: 0": 246,
+        "Unnamed: 1": "مساكن القدس للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شارع الجمهورية أمام محطة الوقود",
+        "Unnamed: 5": 26,
+        "Unnamed: 6": 52,
+        "Unnamed: 7": "091-1888626"
+    },
+    {
+        "Unnamed: 0": 247,
+        "Unnamed: 1": "شقق الرواد المفروشة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "ابوسليم خلف المعهد الصناعي",
+        "Unnamed: 5": 9,
+        "Unnamed: 6": 17,
+        "Unnamed: 7": "091-0628623"
+    },
+    {
+        "Unnamed: 0": 248,
+        "Unnamed: 1": "قصر العائلة للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "زاوية الدهماني شارع احمد رفيق المهدوي",
+        "Unnamed: 5": 15,
+        "Unnamed: 6": 30,
+        "Unnamed: 7": 910053555
+    },
+    {
+        "Unnamed: 0": 249,
+        "Unnamed: 1": "قصر العائلة للشقق الفندقية الفرع الثاني ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": " 11 طريق يونيو",
+        "Unnamed: 5": 18,
+        "Unnamed: 6": 63,
+        "Unnamed: 7": "091-8339252"
+    },
+    {
+        "Unnamed: 0": 250,
+        "Unnamed: 1": "فندق ناريـز ( NARIZ HOTEL)",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "زاوية الدهماني مقابل مستشفى العيون",
+        "Unnamed: 5": 81,
+        "Unnamed: 6": 125,
+        "Unnamed: 7": "091-8339253"
+    },
+    {
+        "Unnamed: 0": 251,
+        "Unnamed: 1": "فندق كيان",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "الظهرة",
+        "Unnamed: 5": 48,
+        "Unnamed: 6": 57,
+        "Unnamed: 7": 930745235
+    },
+    {
+        "Unnamed: 0": 252,
+        "Unnamed: 1": "فندق سما وبلقيس",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شارع البيضاء المتفرع من شارع عمر المختار",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": "091-3601741"
+    },
+    {
+        "Unnamed: 0": 253,
+        "Unnamed: 1": "جولايا للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "بن عاشور، خلف مكتب رئيس الوزراء",
+        "Unnamed: 5": 17,
+        "Unnamed: 6": 35,
+        "Unnamed: 7": 915095982
+    },
+    {
+        "Unnamed: 0": 254,
+        "Unnamed: 1": "فيلا ليبيا الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "السبعة بالقرب من سوق القاضي",
+        "Unnamed: 5": 19,
+        "Unnamed: 6": 38,
+        "Unnamed: 7": "091-5633335"
+    },
+    {
+        "Unnamed: 0": 255,
+        "Unnamed: 1": "شقق فندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "بجوار الهيئة العامة للخيالة - الظهرة",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 256,
+        "Unnamed: 1": "فندق النخلة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شارع النخلة الظهرة ",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 257,
+        "Unnamed: 1": "فندق البيت الراقي للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شارع الرخام السبعة",
+        "Unnamed: 5": 12,
+        "Unnamed: 6": 24,
+        "Unnamed: 7": "091-3258683"
+    },
+    {
+        "Unnamed: 0": 258,
+        "Unnamed: 1": "منازل الشط ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "طريق الشط (بالقرب من شركة ساحل الخضروات) ",
+        "Unnamed: 5": 18,
+        "Unnamed: 6": 36,
+        "Unnamed: 7": "091-1045999"
+    },
+    {
+        "Unnamed: 0": 259,
+        "Unnamed: 1": "بيت النوران للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "منطقة المشتل - عين زارة",
+        "Unnamed: 5": 40,
+        "Unnamed: 6": 80,
+        "Unnamed: 7": "091-5267000"
+    },
+    {
+        "Unnamed: 0": 260,
+        "Unnamed: 1": "الداني للشقق المفروشة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "سوق الجمعة  - شارع 20 رمضان ",
+        "Unnamed: 5": 16,
+        "Unnamed: 6": 64,
+        "Unnamed: 7": "091-1008386"
+    },
+    {
+        "Unnamed: 0": 261,
+        "Unnamed: 1": "فندق ذا ريسدنس",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "الظهرة - شارع خالد بن الوليد",
+        "Unnamed: 5": 88,
+        "Unnamed: 6": 121,
+        "Unnamed: 7": 912611720
+    },
+    {
+        "Unnamed: 0": 262,
+        "Unnamed: 1": "شركة العمد لايجار الشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "عين زارة بجانب جامعة ناصر",
+        "Unnamed: 5": 22,
+        "Unnamed: 6": 44,
+        "Unnamed: 7": "094-1853030"
+    },
+    {
+        "Unnamed: 0": 263,
+        "Unnamed: 1": "فندق الباشا",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شارع الرصافي - بالقرب من نادي بالخير",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": 913391271
+    },
+    {
+        "Unnamed: 0": 264,
+        "Unnamed: 1": "فندق السلطان",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شارع الالكتررونات الظهرة",
+        "Unnamed: 5": 66,
+        "Unnamed: 6": 132,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 265,
+        "Unnamed: 1": "فندق الليلك",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "فندق",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": "021-3342016"
+    },
+    {
+        "Unnamed: 0": 266,
+        "Unnamed: 1": "الدلتا للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": "092-2052963"
+    },
+    {
+        "Unnamed: 0": 267,
+        "Unnamed: 1": "اجنحة كراون للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": 8,
+        "Unnamed: 6": 16,
+        "Unnamed: 7": 946301234
+    },
+    {
+        "Unnamed: 0": 268,
+        "Unnamed: 1": "أجنحة الفوانيس للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": 12,
+        "Unnamed: 6": 32,
+        "Unnamed: 7": "092-0161405"
+    },
+    {
+        "Unnamed: 0": 269,
+        "Unnamed: 1": "أجنحة الماسة للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": "091-0496633"
+    },
+    {
+        "Unnamed: 0": 270,
+        "Unnamed: 1": "جوهرة السلام للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": 24,
+        "Unnamed: 6": 48,
+        "Unnamed: 7": "091-9832626"
+    },
+    {
+        "Unnamed: 0": 271,
+        "Unnamed: 1": "فندق القصر",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "فندق",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": "021-7325887"
+    },
+    {
+        "Unnamed: 0": 272,
+        "Unnamed: 1": "فنادق رويال جاردنز",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "فندق",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": 919770742
+    },
+    {
+        "Unnamed: 0": 273,
+        "Unnamed: 1": "فندق الماسة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "فندق",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 274,
+        "Unnamed: 1": "فندق جاكرتا",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "فندق",
+        "Unnamed: 5": 70,
+        "Unnamed: 6": 140,
+        "Unnamed: 7": "091-6900028"
+    },
+    {
+        "Unnamed: 0": 275,
+        "Unnamed: 1": "فندق المتوسط",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "فندق",
+        "Unnamed: 5": 39,
+        "Unnamed: 6": 41,
+        "Unnamed: 7": "091-7980523"
+    },
+    {
+        "Unnamed: 0": 276,
+        "Unnamed: 1": "فندق الوادي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "فندق",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": "021-3346390"
+    },
+    {
+        "Unnamed: 0": 277,
+        "Unnamed: 1": "مساكن القدس للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": 26,
+        "Unnamed: 6": 52,
+        "Unnamed: 7": "091-1888626"
+    },
+    {
+        "Unnamed: 0": 278,
+        "Unnamed: 1": "شقق الرواد المفروشة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": 9,
+        "Unnamed: 6": 17,
+        "Unnamed: 7": "091-0628623"
+    },
+    {
+        "Unnamed: 0": 279,
+        "Unnamed: 1": "قصر العائلة للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": 15,
+        "Unnamed: 6": 30,
+        "Unnamed: 7": 910053555
+    },
+    {
+        "Unnamed: 0": 280,
+        "Unnamed: 1": "قصر العائلة للشقق الفندقية الفرع الثاني ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": 18,
+        "Unnamed: 6": 63,
+        "Unnamed: 7": "091-8339252"
+    },
+    {
+        "Unnamed: 0": 281,
+        "Unnamed: 1": "فندق ناريـز ( NARIZ HOTEL)",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "فندق",
+        "Unnamed: 5": 81,
+        "Unnamed: 6": 125,
+        "Unnamed: 7": "091-8339253"
+    },
+    {
+        "Unnamed: 0": 282,
+        "Unnamed: 1": "فندق كيان",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "فندق",
+        "Unnamed: 5": 48,
+        "Unnamed: 6": 57,
+        "Unnamed: 7": 930745235
+    },
+    {
+        "Unnamed: 0": 283,
+        "Unnamed: 1": "فندق سما وبلقيس",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "فندق",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": "091-3601741"
+    },
+    {
+        "Unnamed: 0": 284,
+        "Unnamed: 1": "جولايا للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": 17,
+        "Unnamed: 6": 35,
+        "Unnamed: 7": 915095982
+    },
+    {
+        "Unnamed: 0": 285,
+        "Unnamed: 1": "فيلا ليبيا الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": 19,
+        "Unnamed: 6": 38,
+        "Unnamed: 7": "091-5633335"
+    },
+    {
+        "Unnamed: 0": 286,
+        "Unnamed: 1": "شقق فندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 287,
+        "Unnamed: 1": "فندق النخلة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "فندق",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 288,
+        "Unnamed: 1": "فندق البيت الراقي للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": 12,
+        "Unnamed: 6": 24,
+        "Unnamed: 7": "091-3258683"
+    },
+    {
+        "Unnamed: 0": 289,
+        "Unnamed: 1": "منازل الشط ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": 18,
+        "Unnamed: 6": 36,
+        "Unnamed: 7": "091-1045999"
+    },
+    {
+        "Unnamed: 0": 290,
+        "Unnamed: 1": "بيت النوران للشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": 40,
+        "Unnamed: 6": 80,
+        "Unnamed: 7": "091-5267000"
+    },
+    {
+        "Unnamed: 0": 291,
+        "Unnamed: 1": "الداني للشقق المفروشة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": 16,
+        "Unnamed: 6": 64,
+        "Unnamed: 7": "091-1008386"
+    },
+    {
+        "Unnamed: 0": 292,
+        "Unnamed: 1": "فندق ذا ريسدنس",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "فندق",
+        "Unnamed: 5": 88,
+        "Unnamed: 6": 121,
+        "Unnamed: 7": 912611720
+    },
+    {
+        "Unnamed: 0": 293,
+        "Unnamed: 1": "شركة العمد لايجار الشقق الفندقية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "شقق فندقية",
+        "Unnamed: 5": 22,
+        "Unnamed: 6": 44,
+        "Unnamed: 7": "094-1853030"
+    },
+    {
+        "Unnamed: 0": 294,
+        "Unnamed: 1": "فندق الباشا",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "فندق",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": 913391271
+    },
+    {
+        "Unnamed: 0": 295,
+        "Unnamed: 1": "فندق السلطان",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "طرابلس ",
+        "Unnamed: 4": "فندق",
+        "Unnamed: 5": 66,
+        "Unnamed: 6": 132,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 296,
+        "Unnamed: 1": "فندق الواحات",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "غات",
+        "Unnamed: 4": "غات",
+        "Unnamed: 5": 7,
+        "Unnamed: 6": 18,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 297,
+        "Unnamed: 1": "فندق تاسيلي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "غات",
+        "Unnamed: 4": "غات",
+        "Unnamed: 5": 12,
+        "Unnamed: 6": 16,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 298,
+        "Unnamed: 1": "فندق اكاكوس",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "غات",
+        "Unnamed: 4": "غات",
+        "Unnamed: 5": 56,
+        "Unnamed: 6": 93,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 299,
+        "Unnamed: 1": "استراحة العوينات",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "غات",
+        "Unnamed: 4": "العوينات",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": 40,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 300,
+        "Unnamed: 1": "فندق الرابطة غريان",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "غريان",
+        "Unnamed: 4": "غريان /تغسات",
+        "Unnamed: 5": 64,
+        "Unnamed: 6": 112,
+        "Unnamed: 7": 74631970
+    },
+    {
+        "Unnamed: 0": 301,
+        "Unnamed: 1": "نزل غريان السياحي",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "غريان",
+        "Unnamed: 4": "غريان المدينة",
+        "Unnamed: 5": 42,
+        "Unnamed: 6": 76,
+        "Unnamed: 7": 41631482
+    },
+    {
+        "Unnamed: 0": 302,
+        "Unnamed: 1": "نزل سمر قند",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "غريان",
+        "Unnamed: 4": "غريان المدينة",
+        "Unnamed: 5": 24,
+        "Unnamed: 6": 46,
+        "Unnamed: 7": 41636114
+    },
+    {
+        "Unnamed: 0": 303,
+        "Unnamed: 1": "نزل يفرن",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "غريان",
+        "Unnamed: 4": "يفرن",
+        "Unnamed: 5": 18,
+        "Unnamed: 6": 36,
+        "Unnamed: 7": 912106382
+    },
+    {
+        "Unnamed: 0": 304,
+        "Unnamed: 1": "فندق مرزق",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "مرزق",
+        "Unnamed: 4": "كروق",
+        "Unnamed: 5": 48,
+        "Unnamed: 6": 96,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 305,
+        "Unnamed: 1": "فندق تراغن",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "مرزق",
+        "Unnamed: 4": "تراغن",
+        "Unnamed: 5": 15,
+        "Unnamed: 6": 30,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 306,
+        "Unnamed: 1": "فندق قوز التيك",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "شهداء الرميلة",
+        "Unnamed: 5": 173,
+        "Unnamed: 6": 321,
+        "Unnamed: 7": 614614
+    },
+    {
+        "Unnamed: 0": 307,
+        "Unnamed: 1": "الفندق مصراتة السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "وسط المدينة",
+        "Unnamed: 5": 27,
+        "Unnamed: 6": 54,
+        "Unnamed: 7": 2619777
+    },
+    {
+        "Unnamed: 0": 308,
+        "Unnamed: 1": "الفندق الكبير",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "ش سناء محيدلي",
+        "Unnamed: 5": 26,
+        "Unnamed: 6": 56,
+        "Unnamed: 7": 620178
+    },
+    {
+        "Unnamed: 0": 309,
+        "Unnamed: 1": "فندق الضيافة",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "وسط المدينة",
+        "Unnamed: 5": 31,
+        "Unnamed: 6": 75,
+        "Unnamed: 7": 913207088
+    },
+    {
+        "Unnamed: 0": 310,
+        "Unnamed: 1": "فندق اللؤلؤة",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "محلة بدر مصراتة",
+        "Unnamed: 5": 28,
+        "Unnamed: 6": 50,
+        "Unnamed: 7": 261662
+    },
+    {
+        "Unnamed: 0": 311,
+        "Unnamed: 1": "نزل دار الكرم",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "بجانب معرض مصراتة الدولي",
+        "Unnamed: 5": 12,
+        "Unnamed: 6": 24,
+        "Unnamed: 7": 2619941
+    },
+    {
+        "Unnamed: 0": 312,
+        "Unnamed: 1": "نزل الجبل الاخضر",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "شارع بنغازى",
+        "Unnamed: 5": 13,
+        "Unnamed: 6": 29,
+        "Unnamed: 7": 2613270
+    },
+    {
+        "Unnamed: 0": 313,
+        "Unnamed: 1": "فندق النجمة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "بجانب نادي الحياد",
+        "Unnamed: 5": 8,
+        "Unnamed: 6": 19,
+        "Unnamed: 7": 512610023
+    },
+    {
+        "Unnamed: 0": 314,
+        "Unnamed: 1": "نزل أفريقيا",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "ش/الغدير",
+        "Unnamed: 5": 34,
+        "Unnamed: 6": 43,
+        "Unnamed: 7": 51627622
+    },
+    {
+        "Unnamed: 0": 315,
+        "Unnamed: 1": "نزل شاطئ النخيل",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "ش بنغازي",
+        "Unnamed: 5": 18,
+        "Unnamed: 6": 36,
+        "Unnamed: 7": 925208986
+    },
+    {
+        "Unnamed: 0": 316,
+        "Unnamed: 1": "فندق الامتياز",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "ش بنغازي",
+        "Unnamed: 5": 26,
+        "Unnamed: 6": 52,
+        "Unnamed: 7": 512629002
+    },
+    {
+        "Unnamed: 0": 317,
+        "Unnamed: 1": "القرية السياحية    منتزه الجزيرة العائلي ",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "مؤتمر المحجوب",
+        "Unnamed: 5": 87,
+        "Unnamed: 6": 174,
+        "Unnamed: 7": 2632327
+    },
+    {
+        "Unnamed: 0": 318,
+        "Unnamed: 1": "فندق مصراتة السياحى",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": NaN,
+        "Unnamed: 5": 27,
+        "Unnamed: 6": 54,
+        "Unnamed: 7": 512619777
+    },
+    {
+        "Unnamed: 0": 319,
+        "Unnamed: 1": "القرية السياحية (منتزه شاطئ الامان العائلي",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "مصراته شاطئ البحر مؤتمر المحجوب",
+        "Unnamed: 5": 188,
+        "Unnamed: 6": 375,
+        "Unnamed: 7": 632602
+    },
+    {
+        "Unnamed: 0": 320,
+        "Unnamed: 1": "قرية جوهرة الشاطئ السياحية",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": NaN,
+        "Unnamed: 5": 140,
+        "Unnamed: 6": 200,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 321,
+        "Unnamed: 1": "فندق السفير",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "ش بنغازي - مصراتة",
+        "Unnamed: 5": 14,
+        "Unnamed: 6": 35,
+        "Unnamed: 7": 926323931
+    },
+    {
+        "Unnamed: 0": 322,
+        "Unnamed: 1": "فندق الزيتونة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "وسط المدينة بني وليد",
+        "Unnamed: 5": 32,
+        "Unnamed: 6": 44,
+        "Unnamed: 7": 315221045
+    },
+    {
+        "Unnamed: 0": 323,
+        "Unnamed: 1": "فندق المنتزه",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "مصراتة",
+        "Unnamed: 4": "بجانب منتزه زليتن",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 324,
+        "Unnamed: 1": "نزل بن يدر",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "نالوت",
+        "Unnamed: 4": "غدامس",
+        "Unnamed: 5": 20,
+        "Unnamed: 6": 40,
+        "Unnamed: 7": 912139199
+    },
+    {
+        "Unnamed: 0": 325,
+        "Unnamed: 1": "نزل جوهرة الواحة",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "نالوت",
+        "Unnamed: 4": "غدامس",
+        "Unnamed: 5": 68,
+        "Unnamed: 6": 100,
+        "Unnamed: 7": 923639966
+    },
+    {
+        "Unnamed: 0": 326,
+        "Unnamed: 1": "نزل قصر الديوان",
+        "Unnamed: 2": "2 نجمتان",
+        "Unnamed: 3": "نالوت",
+        "Unnamed: 4": "غدامس",
+        "Unnamed: 5": 16,
+        "Unnamed: 6": 32,
+        "Unnamed: 7": 48463350
+    },
+    {
+        "Unnamed: 0": 327,
+        "Unnamed: 1": "نزل باب الفتح",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "نالوت",
+        "Unnamed: 4": "غدامس",
+        "Unnamed: 5": 12,
+        "Unnamed: 6": 28,
+        "Unnamed: 7": 484633556
+    },
+    {
+        "Unnamed: 0": 328,
+        "Unnamed: 1": "نزل القافلة",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "نالوت",
+        "Unnamed: 4": "غدامس",
+        "Unnamed: 5": 25,
+        "Unnamed: 6": 55,
+        "Unnamed: 7": 912119625
+    },
+    {
+        "Unnamed: 0": 329,
+        "Unnamed: 1": "فندق دار غدامس",
+        "Unnamed: 2": "3 نجوم",
+        "Unnamed: 3": "نالوت",
+        "Unnamed: 4": "غدامس",
+        "Unnamed: 5": 68,
+        "Unnamed: 6": 128,
+        "Unnamed: 7": 213616699
+    },
+    {
+        "Unnamed: 0": 330,
+        "Unnamed: 1": "نزل نالوت السياحي",
+        "Unnamed: 2": "نجمة واحدة",
+        "Unnamed: 3": "نالوت",
+        "Unnamed: 4": "نالوت",
+        "Unnamed: 5": 22,
+        "Unnamed: 6": 40,
+        "Unnamed: 7": 913546874
+    },
+    {
+        "Unnamed: 0": 331,
+        "Unnamed: 1": "فندق نفوسة السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "نالوت",
+        "Unnamed: 4": "نالوت المركز",
+        "Unnamed: 5": 20,
+        "Unnamed: 6": 30,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 332,
+        "Unnamed: 1": "فندق الصحراء",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "وادى الشاطى",
+        "Unnamed: 4": "براك",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 333,
+        "Unnamed: 1": "نزل براك",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "وادى الشاطى",
+        "Unnamed: 4": "براك",
+        "Unnamed: 5": NaN,
+        "Unnamed: 6": NaN,
+        "Unnamed: 7": NaN
+    },
+    {
+        "Unnamed: 0": 334,
+        "Unnamed: 1": "فندق اوباري السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "وادي الحياة",
+        "Unnamed: 4": "اوباري المدينة",
+        "Unnamed: 5": 11,
+        "Unnamed: 6": 22,
+        "Unnamed: 7": 623095
+    },
+    {
+        "Unnamed: 0": 335,
+        "Unnamed: 1": "فندق جرمة السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "وادي الحياة",
+        "Unnamed: 4": "جرمة",
+        "Unnamed: 5": 15,
+        "Unnamed: 6": 33,
+        "Unnamed: 7": 642276
+    },
+    {
+        "Unnamed: 0": 336,
+        "Unnamed: 1": "فندق دارجرمة السياحي",
+        "Unnamed: 2": NaN,
+        "Unnamed: 3": "وادي الحياة",
+        "Unnamed: 4": "جرمة",
+        "Unnamed: 5": 27,
+        "Unnamed: 6": 54,
+        "Unnamed: 7": NaN
+    }
+]
